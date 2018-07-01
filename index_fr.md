@@ -3,7 +3,9 @@ layout: page
 title: Micro Meso Macro
 ---
 
-## {{ site.description | default: site.github.project_tagline }}
+{% include viz.html %}
+
+## Approches pratiques et critiques de la visualisation de données
 
 ####  15-16 Novembre 2018 - ENS de Lyon, Lyon (France)
 
@@ -34,3 +36,9 @@ Le programme de cette première édition est conçu par les membres de l'[IXXI](
 # Autres informations
 
 Pour toutes informations ou questions, vous pouvez contacter : [clement@micromesomacro.com](clement@micromesomacro.com).
+
+<style>
+  .post-header h1 {
+    text-align: center
+  }
+</style>
