@@ -1,8 +1,8 @@
 ---
 layout: page
+title: Micro Meso Macro
 ---
 
-# {{ site.title }}
 ## {{ site.description | default: site.github.project_tagline }}
 
 ####  15-16 Novembre 2018 - ENS de Lyon, Lyon (France)
