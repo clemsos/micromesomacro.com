@@ -14,7 +14,7 @@ Comment se représenter les transformations que notre planète traverse aujourd�
 
 Durant deux jours, des scientifiques issus de disciplines diverses (sciences de la vie, sciences de la terre, sciences sociales), des designers, architectes et artistes se réuniront à l’ENS de Lyon pour présenter leurs travaux et réflexions autour de la visualisation des données. Cette circulation entre infiniment petit, mondes sociaux et infiniment grand s’organisera en conférences et ateliers autour de différents aspects pratiques, techniques et théoriques de la culture visuelle des données.
 
-Cette rencontre sera l’occasion de moments d'aborder des questionnements communs qui animent non seulement les sciences, mais également notre regard sur le futur et le quotidien.
+Cette rencontre sera l’occasion d'aborder des questionnements communs qui animent non seulement les sciences, mais également notre regard sur notre quotidien et notre futur.
 
 Les deux jours de rencontres sont ouverts à tous les publics, y compris aux étudiants en-dehors de l’ENS.
 
@@ -31,7 +31,7 @@ Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme
 
 # Proposer une intervention ou un atelier
 
-Le programme de cette première édition est conçu par les membres de l'[IXXI](http://www.ixxi.fr). Toutefois, n'hésitez pas à nous faire part de vos  idées ou propositions en écrivant à [contact@micromesomacro.com](contact@micromesomacro.com)
+Le programme de cette première édition est conçu par les membres de l'[IXXI](http://www.ixxi.fr). Toutefois, n'hésitez pas à nous faire part de vos idées ou propositions en écrivant à [contact@micromesomacro.com](contact@micromesomacro.com)
 
 # Autres informations
 
