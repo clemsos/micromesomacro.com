@@ -1,14 +1,9 @@
 ---
 layout: page
 title: Micro Meso Macro
+subtitle : Approches pratiques et critiques de la visualisation de données
+info: 15-16 Novembre 2018 - ENS de Lyon, Lyon (France)
 ---
-
-{% include viz.html %}
-
-## Approches pratiques et critiques de la visualisation de données
-
-####  15-16 Novembre 2018 - ENS de Lyon, Lyon (France)
-
 
 Comment se représenter les transformations que notre planète traverse aujourd’hui ? Comment dévellopper de nouveaux modes d’écriture et de visualisation pour nous aider à mieux comprendre le monde ? Comment articuler les différentes connaissances et compétences graphiques produites à la croisée des sciences et des arts au cours des siècles derniers ?
 
