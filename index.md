@@ -19,7 +19,7 @@ Le programme est en cours de réalisation et sera communiqué prochainement sur 
 
 Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme en remplissant ce formulaire  :
 
-{% include registration_form.html %}
+{% include registration_form_fr.html %}
 
 
 # Proposer une intervention ou un atelier
