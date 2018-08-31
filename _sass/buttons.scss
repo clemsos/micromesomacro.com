@@ -17,7 +17,7 @@ button {
   white-space: nowrap;
   background-color: transparent;
   border-radius: $global-radius;
-  border: 1px solid $border-color;
+  border: 1px solid $link-color;
   cursor: pointer;
   box-sizing: border-box;
 }
@@ -48,8 +48,10 @@ input {
 
 .button:hover,
 button:hover {
-  color: $dark-grey;
-  border-color: lighten($dark-grey, 33.3%);
+  color: white;
+  border-color: $primary-color;
+  background-color: $primary-color;
+  text-decoration: none;
   outline: 0;
 }
 
@@ -99,8 +101,8 @@ input {
 
 .button.button-primary:hover,
 button.button-primary:hover {
-  color: #fff;
-  background-color: $link-color;
+  color: $link-color;
+  background-color: white;
   border-color: $link-color;
 }
 
@@ -108,16 +110,16 @@ input {
   &[type="submit"].button-primary:hover,
   &[type="reset"].button-primary:hover,
   &[type="button"].button-primary:hover {
-    color: #fff;
-    background-color: $link-color;
+    color: $link-color;
+    background-color: white;
     border-color: $link-color;
   }
 }
 
 .button.button-primary:focus,
 button.button-primary:focus {
-  color: #fff;
-  background-color: $link-color;
+  color: $link-color;
+  background-color: white;
   border-color: $link-color;
 }
 
@@ -125,8 +127,8 @@ input {
   &[type="submit"].button-primary:focus,
   &[type="reset"].button-primary:focus,
   &[type="button"].button-primary:focus {
-    color: #fff;
-    background-color: $link-color;
+    color: $link-color;
+    background-color: white;
     border-color: $link-color;
   }
   &[type="email"],

@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Micro Meso Macro
-subtitle : Approches pratiques et critiques de la visualisation de données
-info: 15-16 Novembre 2018 - ENS de Lyon, Lyon (France)
+subtitle : Exploring borders of data representation
+info: November 15-16th 2018 - ENS de Lyon, Lyon (France)
 ---
 
 Comment se représenter les transformations que notre planète traverse aujourd’hui ? Comment développer de nouveaux modes d’écriture et de visualisation pour nous aider à mieux comprendre le monde ? Comment articuler les différentes connaissances et compétences graphiques produites à la croisée des sciences et des arts au cours des siècles derniers ?
@@ -13,14 +13,16 @@ Les deux jours de rencontres sont ouverts à tous les publics, y compris aux ét
 
 # Programme
 
-Le programme est en cours de réalisation et sera communiqué prochainement sur ce site.  
+* **November 15th** : Workshops
+* **November 16th** : Talks and panels
+
+The program is under and will be displayed on this site.  
 
 # Inscription
 
-Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme en remplissant ce formulaire  :
+Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme [ici](/register)  :
 
-{% include registration_form_fr.html %}
-
+{% include register_button.html %}
 
 # Proposer une intervention ou un atelier
 
@@ -29,9 +31,3 @@ Le programme de cette première édition est conçu par les membres de l'[IXXI](
 # Autres informations
 
 Pour toutes informations ou questions, vous pouvez contacter : [clement@micromesomacro.com](clement@micromesomacro.com).
-
-<style>
-  .post-header h1 {
-    text-align: center
-  }
-</style>
