@@ -1,22 +1,32 @@
 ---
 layout: page
 title: Micro Meso Macro
-subtitle : Exploring borders of data representation
+subtitle : Exploring the frontiers of data representation
 info: November 15-16th 2018 - ENS de Lyon, Lyon (France)
 ---
 
-Comment se représenter les transformations que notre planète traverse aujourd’hui ? Comment développer de nouveaux modes d’écriture et de visualisation pour nous aider à mieux comprendre le monde ? Comment articuler les différentes connaissances et compétences graphiques produites à la croisée des sciences et des arts au cours des siècles derniers ?
+How to represent the ongoing changes of our planet? How can we develop new modes of writing and visualising to help us understand our world? How to articulate centuries of graphic skills and knowledge in new practices of data?
 
-Durant deux jours, des scientifiques issus de disciplines diverses (sciences de la vie, sciences de la terre, sciences sociales, informatique, analyse de données), des designers, architectes et artistes se réuniront à l’ENS de Lyon pour présenter leurs travaux et réflexions autour de la visualisation des données. Cette circulation entre infiniment petit, mondes sociaux et infiniment grand s’organisera en conférences et ateliers autour de différents aspects pratiques, techniques et théoriques de la culture visuelle des données.
+During two day, scientists from multiple disciplines (earth sciences, social sciences, life sciences, computer and data science), designers, architects and artists will gather at ENS de Lyon to present and discuss different approaches of representing data. Workshops, talks and panels will help us explore practices, technics and theory of visual culture of data.
 
-Les deux jours de rencontres sont ouverts à tous les publics, y compris aux étudiants en-dehors de l’ENS.
+The two day are free, open to all audiences, including students outside ENS.
 
-# Programme
+# Program
 
-* **November 15th** : Workshops
-* **November 16th** : Talks and panels
+#### November 15th
 
-The program is under and will be displayed on this site.  
+The first day will be dedicated to workshops.
+
+#### November 16th
+
+The second day will feature talks and panels and will divided into three main themes :
+
+|---|---|
+| **Observing Life with Data** | How data is used to observe living beings and phenomenons |
+| **Art Practices** | How art practices help us build representations |
+| **Frontiers of Representation** | Experimental practices of data |
+
+More details about the program will be added on this website.  
 
 # Inscription
 
@@ -24,10 +34,12 @@ Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme
 
 {% include register_button.html %}
 
-# Proposer une intervention ou un atelier
+# Submit a workshop
 
-Le programme de cette première édition est conçu par les membres de l'[IXXI](http://www.ixxi.fr). Toutefois, n'hésitez pas à nous faire part de vos idées ou propositions en écrivant à [contact@micromesomacro.com](contact@micromesomacro.com)
+The day of November 15th will be dedicated to workshops. If you have workshop ideas or proposals, please get in touch with us at [contact@micromesomacro.com](contact@micromesomacro.com).
 
-# Autres informations
+# Other info
 
-Pour toutes informations ou questions, vous pouvez contacter : [clement@micromesomacro.com](clement@micromesomacro.com).
+The first edition of Micro Meso Macro is powered by [IXXI](http://www.ixxi.fr).
+
+For questions and inquiries, please contact : [clement@micromesomacro.com](clement@micromesomacro.com).
