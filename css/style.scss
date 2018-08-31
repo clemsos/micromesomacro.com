@@ -1,0 +1,50 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+// Imports
+@import "variables";
+@import "buttons";
+
+// Style
+
+#cover {
+  position: absolute;
+  top : 0;
+  left : 0;
+  width: 100vw;
+  height: 70vh;
+  font-weight: bolder;
+  z-index: 3;
+
+  .cover-title {
+    color: white;
+    position: absolute;
+    bottom : 4em ;
+    left : 2em ;
+    width: 80%;
+    font-weight: bolder;
+    z-index: 3;
+  }
+}
+
+#particles-js {
+  height: 100%;
+  width: 100%;
+  /* overflow: hidden; */
+  background-color: $primary-color;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
+
+
+.page-content {
+  margin-top: 70vh;
+}
+
+.post-header h1 {
+  text-align: center;
+}
