@@ -5,8 +5,11 @@
   <link rel="stylesheet" href="/css/style.css">
 
   <body>
-
-    {% include cover.html %}
+    {% if page.home %}
+      {% include home_cover.html %}
+    {% else %}
+      {% include cover.html %}
+    {% endif %}
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
