@@ -1,5 +1,5 @@
 <header id="cover">
-  <div class="wrapper cover-title">
+  <div class="cover-title">
     <h1 class="post-title">{{ page.title | escape }}</h1>
     <h2 class="post-subtitle">{{ page.subtitle | escape }}</h2>
     {% if page.info %}
@@ -8,9 +8,23 @@
     </h3>
   </div>
   {% endif %}
-  <div id="particles-js"></div>
+  {% if page.home %}
+    <div id="particles-js"></div>
+  {% else %}
+    <div id="cover-image">
+      <img src="/uploads/2018/{{page.img}}" alt="">
+    </div>
+  {% endif %}
+
+  <a class="scroll-indicator">
+    <div class="scroll-indicator-wrapper">
+      <img src="/images/arrow-white.gif" alt="">
+    </div>
+  </a>
+
 </header>
 
+{% if page.home %}
 <script src="js/particles.min.js"></script>
 <script>
   particlesJS.load('particles-js', 'data/particlesjs-config.json', function(err, config) {
@@ -19,3 +33,4 @@
 
   });
 </script>
+{% endif %}

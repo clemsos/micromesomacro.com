@@ -6,28 +6,52 @@
 @import "variables";
 @import "buttons";
 
+
 a, a:visited {
   color: $link-color;
 }
 
 // Style
 #cover {
-  position: absolute;
+  position: relative;
   top : 0;
   left : 0;
   width: 100vw;
-  height: 70vh;
+  height: 100vh;
   font-weight: bolder;
   z-index: 3;
+
+  text-align: center;
 
   .cover-title {
     color: white;
     position: absolute;
-    bottom : 4em ;
-    left : 2em ;
-    width: 80%;
+    padding-top : 15em ;
+    margin: 0 auto;
+    // left : 2em ;
+    width: 100%;
     font-weight: bolder;
     z-index: 3;
+  }
+}
+
+.scroll-indicator {
+  position: absolute;
+  bottom: 2em;
+  left: 50%;
+  margin-left: -22px;
+  text-align: center;
+  cursor: none;
+
+  .scroll-indicator-wrapper {
+    // background-image: url();
+    width: 42px;
+    height: 42px;
+    margin-top: 4px;
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    pointer-events: none;
   }
 }
 
@@ -109,10 +133,6 @@ a, a:visited {
   background-repeat: no-repeat;
 }
 
-
-.page-content {
-  margin-top: 70vh;
-}
 
 .post-header h1 {
   text-align: center;
