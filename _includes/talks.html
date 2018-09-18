@@ -1,0 +1,16 @@
+<section id="talks">
+  <ul>
+    {%- for post in site.talks -%}
+    <li class="talk-thumb">
+      <img src="/uploads/2018/{{ post.img }}" alt="{{ post.title }} Thumbnail">
+      <div class="overlay"></div>
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+        <small>{{ post.speaker }}</small>
+      </h3>
+    </li>
+    {%- endfor -%}
+  </ul>
+</section>

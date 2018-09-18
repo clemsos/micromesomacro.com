@@ -11,20 +11,9 @@ During two day, scientists from multiple disciplines (earth sciences, social sci
 
 The two day are free, open to all audiences, including students outside ENS.
 
-# Program
+# Talks
 
-#### November 15th
-
-The first day will be dedicated to workshops.
-
-#### November 16th
-
-The second day will feature talks and panels and will divided into three main themes :
-
-|---|---|
-| **Observing Life with Data** | How data is used to observe living beings and phenomenons |
-| **Art Practices** | How art practices help us build representations |
-| **Frontiers of Representation** | Experimental practices of data |
+{% include talks.html %}
 
 More details about the program will be added on this website.  
 
@@ -33,6 +22,7 @@ More details about the program will be added on this website.
 Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme [ici](/register)  :
 
 {% include register_button.html %}
+
 
 # Submit a workshop
 
