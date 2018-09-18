@@ -2,22 +2,36 @@
 layout: page
 title: Micro Meso Macro
 subtitle : Exploring the frontiers of data representation
-info: November 15-16th 2018 - ENS de Lyon, Lyon (France)
+info: "November 15-16th 2018 <br /> ENS de Lyon, Lyon (France)"
+home: true
 ---
 
-How to represent the ongoing changes of our planet? How can we develop new modes of writing and visualising to help us understand our world? How to articulate centuries of graphic skills and knowledge in new practices of data?
+<br />
+<br />
+### How to represent the ongoing changes of our planet? How can we develop new modes of writing to help us understand our world? How to articulate centuries of graphic skills and human knowledge with the practice of data?
 
-During two day, scientists from multiple disciplines (earth sciences, social sciences, life sciences, computer and data science), designers, architects and artists will gather at ENS de Lyon to present and discuss different approaches of representing data. Workshops, talks and panels will help us explore practices, technics and theory of visual culture of data.
+<br />
+<br />
 
-The two day are free, open to all audiences, including students outside ENS.
+#### Micro Meso Macro is a two-days event to gather scientists from multiple disciplines (earth sciences, social sciences, life sciences, computer and data science), designers, architects and artists to present and discuss different approaches of representing data.
 
-# Talks
+<br />
+<br />
+
+## Program
+
+Talks and panels will help us explore practices, technics, theory and visual culture of data.
 
 {% include talks.html %}
 
 More details about the program will be added on this website.  
 
+
+
 # Inscription
+
+The two day are free, open to all audiences, including students outside ENS.
+
 
 Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme [ici](/register)  :
 
