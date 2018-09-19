@@ -24,8 +24,17 @@ Talks and panels will help us explore practices, technics, theory and visual cul
 
 {% include talks.html %}
 
-More details about the program will be added on this website.  
 
+Also more talks TBA soon :
+
+- [Sara Lenzi](https://www.saralenzi.com/ ) and data sonification
+- [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md) and data physicalisation
+- Maria Roszkowska and Nicolas Maigret about art residencies in science labs with [Disnovation.org](http://disnovation.org/)
+- A workshop by [Aurelien Tabard](http://www.tabard.fr/) about using plants to visualise data
+- [Sebastian Grauwin](http://www.sebastian-grauwin.com/) talking about the constitution of scientific disciplines.
+- ...
+
+More details about the program will be added on this website. 
 
 
 # Inscription
