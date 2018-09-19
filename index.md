@@ -20,39 +20,33 @@ home: true
 
 ## Program
 
-Talks and panels will help us explore practices, technics, theory and visual culture of data.
+#### Talks and panels will explore different practices, technics, theory and visual culture of data.
 
 {% include talks.html %}
 
 
-Also more talks TBA soon :
+More talks details TBA soon :
 
 - [Sara Lenzi](https://www.saralenzi.com/ ) and data sonification
 - [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md) and data physicalisation
-- Maria Roszkowska and Nicolas Maigret about art residencies in science labs with [Disnovation.org](http://disnovation.org/)
+- [Maria Roszkowska](https://cargocollective.com/mariaroszkowska) and [Nicolas Maigret](http://peripheriques.free.fr/blog/) about art residencies in science labs with the collective [Disnovation.org](http://disnovation.org/)
 - A workshop by [Aurelien Tabard](http://www.tabard.fr/) about using plants to visualise data
-- [Sebastian Grauwin](http://www.sebastian-grauwin.com/) talking about the constitution of scientific disciplines.
+- [Dario Rodighiero](https://dariorodighiero.com/) about his project [EPFL Affinity Map](https://affinitymap.epfl.ch/#!)
+- [Sebastian Grauwin](http://www.sebastian-grauwin.com/) about the constitution of scientific disciplines.
 - ...
 
-More details about the program will be added on this website. 
+More details about the program will be added on this website.  
+Stay tuned
 
+<br />
 
-# Inscription
+## Register now
 
-The two day are free, open to all audiences, including students outside ENS.
+### The two day are free, open to all audiences, including students from outside the ENS.  
 
-
-Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme [ici](/register)  :
+#### Please register here.
 
 {% include register_button.html %}
 
-
-# Submit a workshop
-
-The day of November 15th will be dedicated to workshops. If you have workshop ideas or proposals, please get in touch with us at [contact@micromesomacro.com](contact@micromesomacro.com).
-
-# Other info
-
-The first edition of Micro Meso Macro is powered by [IXXI](http://www.ixxi.fr).
-
+<br>
 For questions and inquiries, please contact : [clement@micromesomacro.com](clement@micromesomacro.com).
