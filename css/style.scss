@@ -74,7 +74,7 @@ a, a:visited {
 #talks {
 
   width: 100%;
-  margin: 0;
+  margin: 4em 0 2em 0;
 
   ul {
     list-style: none;
@@ -84,13 +84,8 @@ a, a:visited {
 
   .talk-thumb {
 
-    // overflow: hidden;
     position: relative;
-    // height: 20vh;
-
-
-    // display: flex;
-    // flex-flow: column wrap;
+    margin-bottom: 1em;
 
     .talk-link {
       display: block;
@@ -205,6 +200,6 @@ a, a:visited {
 
 
 .register-button {
-  text-align: center;
-  margin: 3em 0 3em 0;
+  // text-align: center;
+  margin: 1em 0 3em 0;
 }
