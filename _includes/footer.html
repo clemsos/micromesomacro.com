@@ -28,6 +28,29 @@
   #sponsors img {
     max-height: 5em
   }
+  footer p {
+    color: white
+  }
+  footer a, footer a:visited {
+    color : white;
+  }
+  footer p a {
+    text-decoration: underline;
+  }
+
+
+
+  .footer-col-2 {
+    width: -webkit-calc(45% - (30px / 2));
+    width: calc(45% - (30px / 2));
+    text-align: right;
+  }
+
+  .footer-col-3 {
+    width: -webkit-calc(20% - (30px / 2));
+    width: calc(20% - (30px / 2));
+    text-align: center;
+  }
 
 </style>
 <footer class="site-footer h-card">
@@ -36,7 +59,9 @@
   <div class="wrapper">
 
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+    <h2 class="footer-heading">
+      <a href="/">{{ site.title | escape }}</a>
+    </h2>
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
@@ -44,15 +69,14 @@
             <p>{{- site.description | escape -}}</p>
           </li>
           {%- if site.email -%}
-          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
           {%- endif -%}
         </ul>
       </div>
 
       <div class="footer-col footer-col-2">
-        <div >
-
-        </div>
+        <p>
+          This first edition of Micro Meso Macro is powered by <a href="http://www.ixxi.fr">IXXI</a>.
+        </p>
       </div>
 
       <div class="footer-col footer-col-3">
@@ -62,7 +86,6 @@
               <img src="/images/ixxi_logo_white.png" alt="logo ">
             </a>
           </li>
-
         </ul>
       </div>
     </div>

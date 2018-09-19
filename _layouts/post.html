@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article id="single-post" class="post">
+  <div class="post-content">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">
+        {{ page.title }}
+      </h1>
+      <p class="talk-date">
+        <!-- by {{ page.speaker}} {% if page.time %} -->
+        <!-- <br> -->
+        on {{ page.time | date : "%B %-d, %Y"}} {% endif %}
+      </p>
+    </header>
+
+    <div class="talk-content">
+      <blockquote>
+        {{ content }}
+      </blockquote>
+    </div>
+
+    <div class="about-speaker">
+      <h4>About {{ page.speaker}}</h4>
+      <p>{{ page.bio}}</p>
+
+      <p><a href="{{page.weblink}}">{{page.weblink}}</a></p>
+
+      {%- if page.twitter -%}
+        <a href="https://twitter.com/{{ page.twitter | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ page.twitter | escape }}</span></a>
+      {%- endif -%}
+    </div>
+
+
+
+  </div>
+</article>

@@ -1,37 +1,52 @@
 ---
 layout: page
 title: Micro Meso Macro
-subtitle : Approches pratiques et critiques de la visualisation de données
-info: 15-16 Novembre 2018 - ENS de Lyon, Lyon (France)
+subtitle : Exploring the frontiers of data representation
+info: "November 15-16th 2018 <br /> ENS de Lyon, Lyon (France)"
+home: true
 ---
 
-Comment se représenter les transformations que notre planète traverse aujourd’hui ? Comment développer de nouveaux modes d’écriture et de visualisation pour nous aider à mieux comprendre le monde ? Comment articuler les différentes connaissances et compétences graphiques produites à la croisée des sciences et des arts au cours des siècles derniers ?
+<br />
+<br />
+### How to represent the ongoing changes of our planet? How can we develop new modes of writing to help us understand our world? How to articulate centuries of graphic skills and human knowledge with the practice of data?
 
-Durant deux jours, des scientifiques issus de disciplines diverses (sciences de la vie, sciences de la terre, sciences sociales, informatique, analyse de données), des designers, architectes et artistes se réuniront à l’ENS de Lyon pour présenter leurs travaux et réflexions autour de la visualisation des données. Cette circulation entre infiniment petit, mondes sociaux et infiniment grand s’organisera en conférences et ateliers autour de différents aspects pratiques, techniques et théoriques de la culture visuelle des données.
+<br />
+<br />
 
-Les deux jours de rencontres sont ouverts à tous les publics, y compris aux étudiants en-dehors de l’ENS.
+#### Micro Meso Macro is a two-days event to gather scientists from multiple disciplines (earth sciences, social sciences, life sciences, computer and data science), designers, architects and artists to present and discuss different approaches of representing data.
 
-# Programme
+<br />
+<br />
 
-Le programme est en cours de réalisation et sera communiqué prochainement sur ce site.  
+## Program
 
-# Inscription
+#### Talks and panels will explore different practices, technics, theory and visual culture of data.
 
-Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme en remplissant ce formulaire  :
-
-{% include registration_form_fr.html %}
+{% include talks.html %}
 
 
-# Proposer une intervention ou un atelier
+More talks details TBA soon :
 
-Le programme de cette première édition est conçu par les membres de l'[IXXI](http://www.ixxi.fr). Toutefois, n'hésitez pas à nous faire part de vos idées ou propositions en écrivant à [contact@micromesomacro.com](contact@micromesomacro.com)
+- [Sara Lenzi](https://www.saralenzi.com/ ) and data sonification
+- [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md) and data physicalisation
+- [Maria Roszkowska](https://cargocollective.com/mariaroszkowska) and [Nicolas Maigret](http://peripheriques.free.fr/blog/) about art residencies in science labs with the collective [Disnovation.org](http://disnovation.org/)
+- A workshop by [Aurelien Tabard](http://www.tabard.fr/) about using plants to visualise data
+- [Dario Rodighiero](https://dariorodighiero.com/) about his project [EPFL Affinity Map](https://affinitymap.epfl.ch/#!)
+- [Sebastian Grauwin](http://www.sebastian-grauwin.com/) about the constitution of scientific disciplines.
+- ...
 
-# Autres informations
+More details about the program will be added on this website.  
+Stay tuned
 
-Pour toutes informations ou questions, vous pouvez contacter : [clement@micromesomacro.com](clement@micromesomacro.com).
+<br />
 
-<style>
-  .post-header h1 {
-    text-align: center
-  }
-</style>
+## Register now
+
+### The two day are free, open to all audiences, including students from outside the ENS.  
+
+#### Please register here.
+
+{% include register_button.html %}
+
+<br>
+For questions and inquiries, please contact : [clement@micromesomacro.com](clement@micromesomacro.com).
