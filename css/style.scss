@@ -39,6 +39,20 @@ a, a:visited {
   }
 }
 
+.back-to-home {
+  display: block;
+  position: fixed;
+  top: 3em;
+  left: 48%;
+  // border: 1px solid rgba(0,0,0,.6);
+  border-radius: 10px;
+  padding: .4em .6em;
+  font-weight: normal;
+  color: rgba(0,0,0,.6);
+  height: 24px;
+  background: rgba(255,255,255,.6)
+}
+
 .scroll-indicator {
   position: absolute;
   bottom: 2em;
