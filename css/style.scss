@@ -20,6 +20,10 @@ a, a:visited {
 
   &.cover-home {
     height: 100vh;
+
+    h3 {
+      margin-top: 2em;
+    }
   }
 
   font-weight: bolder;

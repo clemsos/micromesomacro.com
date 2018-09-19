@@ -13,14 +13,14 @@ home: true
 <br />
 <br />
 
-#### Micro Meso Macro is a two-days event to gather scientists from multiple disciplines (earth sciences, social sciences, life sciences, computer and data science), designers, architects and artists to present and discuss different approaches of representing data.
+#### Micro Meso Macro is a two-days event that gather scientists from multiple disciplines (earth sciences, social sciences, life sciences, computer science, data science, etc.) with designers, architects and artists to present and exchange their practices and representations of data.
 
 <br />
 <br />
 
 ## Program
 
-#### Talks and panels will explore different practices, technics, theory and visual culture of data.
+#### Talks and panels will explore different approaches, technics, theory and visual culture that are used to represent data.
 
 {% include talks.html %}
 
@@ -35,8 +35,7 @@ More talks details TBA soon :
 - [Sebastian Grauwin](http://www.sebastian-grauwin.com/) about the constitution of scientific disciplines.
 - ...
 
-More details about the program will be added on this website.  
-Stay tuned
+More details about the program will be added on this website. Stay tuned
 
 <br />
 
