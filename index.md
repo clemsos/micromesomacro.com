@@ -27,11 +27,9 @@ home: true
 
 More talks details TBA soon :
 
-- [Sara Lenzi](https://www.saralenzi.com/ ) and data sonification
 - [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md) and data physicalisation
 - [Maria Roszkowska](https://cargocollective.com/mariaroszkowska) and [Nicolas Maigret](http://peripheriques.free.fr/blog/) about art residencies in science labs with the collective [Disnovation.org](http://disnovation.org/)
 - A workshop by [Aurelien Tabard](http://www.tabard.fr/) about using plants to visualise data
-- [Dario Rodighiero](https://dariorodighiero.com/) about his project [EPFL Affinity Map](https://affinitymap.epfl.ch/#!)
 - [Sebastian Grauwin](http://www.sebastian-grauwin.com/) about the constitution of scientific disciplines.
 - ...
 

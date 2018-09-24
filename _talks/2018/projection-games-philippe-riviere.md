@@ -1,6 +1,6 @@
 ---
 title: "Projection Games"
-weblink: https://visionscarto.net/
+weblink: https://visionscarto.net
 speaker: "Philippe Rivière"
 bio: "A former journalist, I'm now a cartographer with Visionscarto.net and LIRIS."
 twitter: "@recifs"
