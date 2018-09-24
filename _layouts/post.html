@@ -8,17 +8,15 @@ layout: default
         {{ page.title }}
       </h1>
       <p class="talk-date">
-        <!-- by {{ page.speaker}} {% if page.time %} -->
-        <!-- <br> -->
+        by {{ page.speaker}} {% if page.time %}
+        <br>
         on {{ page.time | date : "%B %-d, %Y"}} {% endif %}
       </p>
     </header>
 
-    <div class="talk-content">
-      <blockquote>
-        {{ content }}
-      </blockquote>
-    </div>
+    <article class="talk-content">
+      {{ content }}
+    </article>
 
     <div class="about-speaker">
       <h4>About {{ page.speaker}}</h4>
@@ -30,8 +28,6 @@ layout: default
         <a href="https://twitter.com/{{ page.twitter | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ page.twitter | escape }}</span></a>
       {%- endif -%}
     </div>
-
-
 
   </div>
 </article>
