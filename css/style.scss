@@ -17,9 +17,19 @@ a, a:visited {
   top : 0;
   left : 0;
   width: 100vw;
+  max-height: 100vh;
+  overflow: hidden;
+
+  img {
+    width: 100vw;
+   }
 
   &.cover-home {
     height: 100vh;
+
+    h3 {
+      margin-top: 2em;
+    }
   }
 
   font-weight: bolder;
@@ -186,6 +196,7 @@ a, a:visited {
 #single-post {
   .talk-content {
     margin: 1em 0 3em 0;
+    font-size: 1.3em;
   }
 
   .post-header {
