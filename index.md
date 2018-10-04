@@ -39,6 +39,7 @@ More talks details TBA soon :
 - [Martin O'Leary](http://mewo2.com/) about generating maps and glaciology.
 - A workshop by [Aurelien Tabard](http://www.tabard.fr/) about using plants to visualise data
 - [Sebastian Grauwin](http://www.sebastian-grauwin.com/) about the constitution of scientific disciplines.
+- Titouan Poisson about [the Atlas of Data on Earth](https://theatlasofdata.earth)
 - ...
 
 More details about the program will be added on this website. Stay tuned
