@@ -7,6 +7,6 @@ twitter: "@KirellBenzi"
 img: "data-art-kirell-benzi.png"
 type: talk
 layout: post
-time: 2018-11-15
+time: 2018-11-15 13:30
 ---
 Even if it may seem unnatural at first, the combination of art and science is gaining momentum in the research community. In this talk, I will explain why Data Art is a formidable support for scientific communication by showing various examples from my own research and artworks.

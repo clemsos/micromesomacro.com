@@ -7,7 +7,7 @@ weblink: "http://www.saralenzi.com"
 img: "data-sonification.jpeg"
 type: talk
 layout: post
-time: 2018-11-15
+time: 2018-11-15 15:00
 ---
 As the amount of data produced on a daily basis increases exponentially and with it the complexity of making sense of large volumes of structured and unstructured information, a new approach to the representation of data is emerging. The design community is starting advocating for a novel approach to transform specialized data visualization techniques into independent, full rounded "data experiences" providing sense – making tools also to non-experts.
 
