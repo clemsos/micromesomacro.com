@@ -7,6 +7,7 @@ weblink: "https://dariorodighiero.com"
 img: "affinity-map-epfl.png"
 type: talk
 layout: post
+time: 2018-11-16 13:30
 ---
 Network visualizations are objects that are very stable from a graphical point of view: nodes and relations are represented as circles and lines that usually present textual and quantitative information. This visual method adopted by the large part of scientists was introduced during 1930s by the sociologist Jacob L. Moreno who published a book where networks were employed to illustrate social ties. Although different efforts were done to improve the arrangement and temporal dimension of networks, the graphical representation timidly advanced in almost one century. How to enrich further the visual grammar of networks?
 

@@ -3,6 +3,7 @@ title: Plants as a visualization medium
 speaker: Aurélien Tabard
 bio: "Aurélien Tabard is assistant professor in Computer Science at Université de Lyon. His work in Human Computer Interaction is structured around three key themes: 1. Understanding and expanding scientific computational notebooks; 2. Making activity a primary computational element, that can be manipulated like files and applications are today; and 3. Supporting situated visualization design, i.e. visualizations that are strongly tied to their environment."
 twitter: "@aurelient"
+img: "plants.jpg"
 weblink: "http://www.tabard.fr"
 type: workshop
 layout: post
