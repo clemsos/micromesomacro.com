@@ -208,9 +208,36 @@ a, a:visited {
   }
 }
 
-
-
 .register-button {
   // text-align: center;
   margin: 1em 0 3em 0;
+}
+
+
+#schedule {
+
+  table, tr, td {
+    border: 0;
+    background: none;
+  }
+
+  table {
+    border-top: solid 3px $primary-color;
+  }
+
+  .lunch, .coffee-break {
+    color: $primary-color;
+    background: none;
+  }
+
+  tr {
+    height : 10vh;
+    border-bottom: 1px solid $light-grey;
+  }
+
+  .workshop {
+    background: lighten($light-grey, 7%);
+    height: 20vh;
+  }
+
 }

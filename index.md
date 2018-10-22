@@ -20,8 +20,6 @@ home: true
 #### We believe that our goal in discussing visualisation should not be to seek an unified approach to writing, but to support a diverse set of possibilities, tools and authoring styles. The visual grammar of data still in the making. There still is important explorations to be conducted in the domain of representation to invent news mental models, develop new tools, create new ways of observing. We hope this event will provide a space to discuss them.
 
 
-
-
 <br />
 <br />
 
@@ -32,26 +30,33 @@ home: true
 {% include talks.html %}
 
 
-More talks details TBA soon :
+## Schedule
 
-- [Samuel Huron](https://perso.telecom-paristech.fr/shuron/#!index.md) and data physicalisation
-- [Maria Roszkowska](https://cargocollective.com/mariaroszkowska) and [Nicolas Maigret](http://peripheriques.free.fr/blog/) about art residencies in science labs with the collective [Disnovation.org](http://disnovation.org/)
-- [Martin O'Leary](http://mewo2.com/) about generating maps and glaciology.
-- A workshop by [Aurelien Tabard](http://www.tabard.fr/) about using plants to visualise data
-- [Sebastian Grauwin](http://www.sebastian-grauwin.com/) about the constitution of scientific disciplines.
-- ...
+{% include schedule.html %}
 
-More details about the program will be added on this website. Stay tuned
+<br />
+<br />
 
+## Location
+
+#### Talks will be hosted in the rooms 116 and 117 on the Monod site of ENS de Lyon.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2785.063451849894!2d4.826923899999999!3d45.729822299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea2b988f000d%3A0x6138524be92198ce!2sENS+Lyon!5e0!3m2!1sen!2sfr!4v1540203895381" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+<br />
+<br />
+<br />
 <br />
 
 ## Register now
 
 ### The two day are free, open to all audiences, including students from outside the ENS.  
 
-#### Please register here.
+#### Registration will be closed on November 7th.
 
 {% include register_button.html %}
+
+
 
 <br>
 For questions and inquiries, please contact : [clement@micromesomacro.com](clement@micromesomacro.com).
