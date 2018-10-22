@@ -1,23 +1,11 @@
 <section id="talks">
   <ul>
-    {%- for post in site.talks -%}
-    <li class="talk-thumb">
-      <a class="talk-link" href="{{ post.url | relative_url }}">
-        <div class="talk-thumb-img">
-          <img src="/uploads/2018/{{ post.img }}" alt="{{ post.title }} Thumbnail">
-        </div>
-        <div class="overlay"></div>
-        <h3 class="talk-thumb-title">
-          {{ post.title | escape }}
-          <br>
-          <small>{{ post.speaker }}</small>
-          <br>
-        </h3>
-
-        <span class="talk-info">{{ post.type }}{% if post.time %} - {{ post.time | date: "%b %-d"}}{% endif %}</span>
-      </a>
+    {% assign sorted = (site.talks | sort: 'time')  %}
+    {% for post in sorted %}
+    <li>
+      {% include talk-thumbnail.html post=post%}
     </li>
-    {%- endfor -%}
+    {% endfor %}
   </ul>
 </section>
 
