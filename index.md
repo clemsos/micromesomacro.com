@@ -17,7 +17,7 @@ home: true
 
 #### As is name suggests, *Micro Meso Macro* investigates the multiple scales of life. Time, geography, networks, relationships, quantities... : they come in all sizes and shapes. This event provides an account of works and reflections that have used data to visually explore different dimensions of reality.
 
-#### We believe that our goal in discussing visualisation should not be to seek an unified approach to writing, but to support a diverse set of possibilities, tools and authoring styles. The visual grammar of data still in the making. There still is important explorations to be conducted in the domain of representation to invent news mental models, develop new tools, create new ways of observing. We hope this event will provide a space to discuss them.
+#### We believe that our goal in discussing visualisation should not be to seek an unified approach to writing, but to support a diverse set of possibilities, tools and authoring styles. The visual grammar of data still in the making. Important explorations still to be conducted in the domain of representation to invent new mental models, develop new tools, create new ways of observing. We hope this event will provide a space to discuss them.
 
 
 <br />
