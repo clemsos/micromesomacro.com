@@ -39,7 +39,7 @@ home: true
 
 ## Location
 
-#### Talks will be hosted in the rooms 116 and 117 on the Monod site of ENS de Lyon.
+#### Talks will be hosted in the rooms 116 and 117 on the first floor of the Monod site of ENS de Lyon.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2785.063451849894!2d4.826923899999999!3d45.729822299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea2b988f000d%3A0x6138524be92198ce!2sENS+Lyon!5e0!3m2!1sen!2sfr!4v1540203895381" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
