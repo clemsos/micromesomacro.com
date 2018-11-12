@@ -1,5 +1,5 @@
 ---
-title: Generative Maps
+title: Imaginary Cartography
 speaker: Martin O'Leary
 bio: "Martin O'Leary makes Twitter bots, generative art, and other weird bits and pieces about landscapes, maps, and imagined places. He was a glaciologist working on ice/ocean interactions at the Glaciology Group in the Geography Department, Swansea University, primarily using computer models and remote sensing data to study processes at the fronts of tidewater glaciers. He is now in charge of exhibit design at the Life Science Centre in Newcastle."
 twitter: "@mewo2"
