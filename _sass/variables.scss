@@ -8,10 +8,10 @@ $bp-larger-than-desktophd : "min-width: 1200px" !default;
 // Colors
 $light-grey: #e1e1e1 !default;
 $dark-grey: #333 !default;
-$primary-color: #b61924 !default;
+$primary-color: #00841A !default;
 $secondary-color: lighten($dark-grey, 13.5%) !default;
 $border-color: #bbb !default;
-$link-color: darken(#b61924, 10%) !default;
+$link-color: darken($primary-color, 10%) !default;
 $font-color: #222 !default;
 $overlay-color: rgba(31,44,108,.45);
 
