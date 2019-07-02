@@ -51,5 +51,3 @@ preview: true
 ### For reference, see the [website of the 2018 edition](/2018).
 
 <br />
-<br />
-For questions and inquiries, please contact : [hello@clementrenaud.com](hello@clementrenaud.com).
