@@ -26,17 +26,40 @@ cover: cover_2019.html
 <br />
 <br />
 
-## Program: save the date!
-
-#### The event will happen on November 14th and 15th, 2019 from 9am to 6pm. The program is currently under construction.  
+### The event will happen on November 14th and 15th, 2019 from 10am to 6pm.
 
 <br />
 <br />
+
+
+### The program is currently under construction.
+
+Already confirmed :
+
+- Alexandra Arènes from [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
+- Gauthier Roussilhe, [anthropocenic designer](http://gauthierroussilhe.com/en)
+- Nicolas Barradeau, [graphics coder](http://www.barradeau.com/) and [GROW](https://www.grow.paris/) organizer
+- More TBA. Stay tuned...
+
+<br />
+For reference, you can check the [website of the previous edition](/2018).
+
+
+<br />
+<br />
+
+
+## Register now
+### The two day are free, open to all audiences, including students from outside the ENS.  
+
+#### Registration will be closed on November 7th.
+
+{% include register_button.html %}
 
 
 ## Location
 
-#### Talks will be hosted in the rooms 116 and 117 on the first floor of the Monod site of ENS de Lyon.
+#### Talks will be hosted in the room 117 on the first floor of the Monod site of ENS de Lyon.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2785.063451849894!2d4.826923899999999!3d45.729822299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea2b988f000d%3A0x6138524be92198ce!2sENS+Lyon!5e0!3m2!1sen!2sfr!4v1540203895381" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -47,8 +70,5 @@ cover: cover_2019.html
 
 #### The two day are free, open to all audiences, including students from outside the ENS.  
 
-
-<br />
-### For reference, see the [website of the 2018 edition](/2018).
 
 <br />
