@@ -5,8 +5,8 @@
   <link rel="stylesheet" href="/css/style.css">
 
   <body>
-    {% if page.home %}
-      {% include home_cover.html %}
+    {% if page.cover %}
+      {% include {{page.cover}} %}
     {% else %}
       {% include cover.html %}
     {% endif %}

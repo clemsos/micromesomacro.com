@@ -1,0 +1,21 @@
+<header id="cover" class="cover-home">
+  <div class="cover-title">
+    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h2 class="post-subtitle">{{ page.subtitle | escape }}</h2>
+    {% if page.info %}
+    <h3>
+      {{page.info}}
+    </h3>
+  </div>
+  {% endif %}
+  <canvas id="wind"></canvas>
+  <a class="scroll-indicator" href="#intro">
+    <div class="scroll-indicator-wrapper">
+      <img src="/images/arrow-white.gif" alt="">
+    </div>
+  </a>
+</header>
+<div id="intro"></div>
+
+<script src="/js/2019/wind-gl.js" charset="utf-8"></script>
+<script src="/js/2019/wind.js" charset="utf-8"></script>

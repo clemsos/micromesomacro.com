@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Micro Meso Macro
-subtitle : Exploring the frontiers of data representation
+subtitle : "Exploring the frontiers of data representation"
 info: "November 14-15th 2019 <br /> ENS de Lyon, Lyon (France)"
 home: true
 year: 2019
 preview: true
+cover: cover_2019.html
 ---
 
 <br />

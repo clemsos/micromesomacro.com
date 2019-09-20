@@ -46,6 +46,12 @@ a, a:visited {
     width: 100%;
     font-weight: bolder;
     z-index: 3;
+
+    -webkit-animation: fadein 4s; /* Safari, Chrome and Opera > 12.1 */
+   -moz-animation: fadein 4s; /* Firefox < 16 */
+    -ms-animation: fadein 4s; /* Internet Explorer */
+     -o-animation: fadein 4s; /* Opera < 12.1 */
+        animation: fadein 4s;
   }
 }
 
@@ -182,11 +188,12 @@ a, a:visited {
   }
 }
 
-#particles-js {
+#particles-js, #wind {
   height: 100%;
   width: 100%;
   /* overflow: hidden; */
   background-color: $primary-color;
+
   background-image: url('');
   background-size: cover;
   background-position: 50% 50%;
@@ -296,4 +303,35 @@ footer p a {
   width: -webkit-calc(20% - (30px / 2));
   width: calc(20% - (30px / 2));
   text-align: center;
+}
+
+
+// fade in definition
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Firefox < 16 */
+@-moz-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Safari, Chrome and Opera > 12.1 */
+@-webkit-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Internet Explorer */
+@-ms-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
+}
+
+/* Opera < 12.1 */
+@-o-keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }
