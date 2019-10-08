@@ -34,12 +34,24 @@ cover: cover_2019.html
 
 ### The program is currently under construction.
 
-Already confirmed :
+Confirmed speakers:
 
-- Alexandra Arènes from [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
+- Alexandra Arènes, [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
+- Jazmin Arguello Velazquez, [natural capital accounting](http://www.ixxi.fr/agenda/evenements/phd-defense-implementing-ecosystem-natural-capital-accounting-methodology-to-the-rhone-watershed-the-proof-of-concept)
+- Nicolas Barradeau, [creative visualization](http://www.barradeau.com/)
+- Ludivine Bocquier & Salomé Tréguier, [participatory mapping](https://theatlasofdata.earth)
+- Joanna Boehnert, [ecology, design and politics](https://ecolabsblog.com/)
+- Lynn Cherny, [analytic designer](http://ghostweather.com/)
+- Julien Dupont, [cartographer of imaginaries](https://www.instagram.com/kartokobri/)
 - Gauthier Roussilhe, [anthropocenic designer](http://gauthierroussilhe.com/en)
-- Nicolas Barradeau, [graphics coder](http://www.barradeau.com/) and [GROW](https://www.grow.paris/) organizer
-- More TBA. Stay tuned...
+- Romain Vuillemot, [dataviz scientist](https://romain.vuillemot.net/)
+- Fabrice Sabatier, [networks explorer](https://www.corp-lab.com/)
+- Paul Guzzardo, [recursive urbanist](https://en.unesco.org/global-mil-week-2019-feature-conference/paul-guzzardo)
+- Philippe Rivière, [geo magician](https://visionscarto.net/)
+
+
+<br />
+The full schedule will be published soon.
 
 <br />
 For reference, you can check the [website of the previous edition](/2018).
@@ -64,11 +76,4 @@ For reference, you can check the [website of the previous edition](/2018).
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2785.063451849894!2d4.826923899999999!3d45.729822299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47f4ea2b988f000d%3A0x6138524be92198ce!2sENS+Lyon!5e0!3m2!1sen!2sfr!4v1540203895381" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br />
-<br />
-
-## Registration
-
-#### The two day are free, open to all audiences, including students from outside the ENS.  
-
-
 <br />
