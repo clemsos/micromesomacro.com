@@ -32,9 +32,7 @@ cover: cover_2019.html
 <br />
 
 
-### The program is currently under construction.
-
-Confirmed speakers:
+### Confirmed speakers
 
 - Alexandra Arènes, [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
 - Jazmin Arguello Velazquez, [natural capital accounting](http://www.ixxi.fr/agenda/evenements/phd-defense-implementing-ecosystem-natural-capital-accounting-methodology-to-the-rhone-watershed-the-proof-of-concept)
