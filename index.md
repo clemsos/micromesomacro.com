@@ -26,18 +26,12 @@ cover: cover_2019.html
 <br />
 <br />
 
-### The event will happen on November 14th and 15th, 2019 from 10am to 6pm.
-
-<br />
-<br />
-
-
 ### Confirmed speakers
 
 - Alexandra Arènes, [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
 - Jazmin Arguello Velazquez, [natural capital accounting](http://www.ixxi.fr/agenda/evenements/phd-defense-implementing-ecosystem-natural-capital-accounting-methodology-to-the-rhone-watershed-the-proof-of-concept)
 - Nicolas Barradeau, [creative visualization](http://www.barradeau.com/)
-- Ludivine Bocquier & Salomé Tréguier, [participatory mapping](https://theatlasofdata.earth)
+- [Ludivine Bocquier](https://www.ludivinebocquier.fr/) & [Salomé Tréguier](http://salometreguier.fr/), [participatory mapping](https://theatlasofdata.earth)
 - Joanna Boehnert, [ecology, design and politics](https://ecolabsblog.com/)
 - Lynn Cherny, [analytic designer](http://ghostweather.com/)
 - Julien Dupont, [cartographer of imaginaries](https://www.instagram.com/kartokobri/)
@@ -49,11 +43,13 @@ cover: cover_2019.html
 
 
 <br />
-The full schedule will be published soon.
+<br />
+
+### The event will happen on November 14th and 15th, 2019 from 10am to 6pm.
 
 <br />
+The full schedule will be published soon.  
 For reference, you can check the [website of the previous edition](/2018).
-
 
 <br />
 <br />
