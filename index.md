@@ -41,6 +41,7 @@ cover: cover_2019.html
 - Paul Guzzardo, [recursive urbanist](https://en.unesco.org/global-mil-week-2019-feature-conference/paul-guzzardo)
 - Philippe Rivière, [geo magician](https://visionscarto.net/)
 
+Talks will be given in French and/or in English.
 
 <br />
 <br />
