@@ -7,7 +7,7 @@
   <body>
     {% if page.cover %}
       {% include {{page.cover}} %}
-    {% else %}
+    {% elsif page.img %}
       {% include cover.html %}
     {% endif %}
 

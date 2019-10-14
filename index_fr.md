@@ -23,11 +23,6 @@ Vous pouvez dés maintenant réservez votre place ou recevoir le futur programme
   Register
 </a>
 
-
-# Proposer une intervention ou un atelier
-
-Le programme de cette première édition est conçu par les membres de l'[IXXI](http://www.ixxi.fr). Toutefois, n'hésitez pas à nous faire part de vos idées ou propositions en écrivant à [contact@micromesomacro.com](contact@micromesomacro.com)
-
 # Autres informations
 
 Pour toutes informations ou questions, vous pouvez contacter : [clement@micromesomacro.com](clement@micromesomacro.com).
