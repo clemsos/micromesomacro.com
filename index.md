@@ -37,7 +37,7 @@ cover: cover_2019.html
 - Julien Dupont, [cartographer of imaginaries](https://www.instagram.com/kartokobri/)
 - Gauthier Roussilhe, [anthropocenic designer](http://gauthierroussilhe.com/en)
 - Romain Vuillemot, [dataviz scientist](https://romain.vuillemot.net/)
-- Fabrice Sabatier, [networks explorer](https://www.corp-lab.com/)
+- Fabrice Sabatier, [networks explorer](http://www.corp-lab.com/researchsabatier/)
 - Paul Guzzardo, [recursive urbanist](https://en.unesco.org/global-mil-week-2019-feature-conference/paul-guzzardo)
 - Philippe Rivière, [geo magician](https://visionscarto.net/)
 
