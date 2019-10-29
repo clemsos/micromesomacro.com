@@ -10,7 +10,6 @@ bio: "Guzzardo\u2019s research examines the role of architects and urban designe
 layout: post
 speaker: Paul Guzzardo
 title: The Algorithm that Ate The Street
-twitter: '@'
 type: talk
 img: triageDSLB.jpg
 weblink: https://vimeo.com/user6084722

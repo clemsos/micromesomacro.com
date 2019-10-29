@@ -4,10 +4,8 @@ bio: 'I am an environmental biologist and I am interested on nature management a
 layout: post
 speaker: "Jazmin Arg\xFCello"
 title: Implementing Ecosystem Natural Capital Accounting
-twitter: '@'
 type: talk
 img: geo-treatments.png
-weblink: ''
 time: 2019-11-15 13:30
 ---
  A range of environmental evaluation tools has been developed with the purpose of integrating the natural capital into economical national accounting frameworks and inform policy-makers on their availability, use, and depletion.

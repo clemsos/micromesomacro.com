@@ -16,7 +16,7 @@ title: "Visualiser le lobby climatique\_: le designer en ing\xE9nieur, sc\xE9nar
   \ et sorcier"
 twitter: '@FabriceSabatier'
 type: talk
-img: 20170420_194547.jpg
+img: expoBelOrdinaire.jpg
 weblink: http://www.corp-lab.com/researchsabatier/
 time: 2019-11-14 17:15
 ---
