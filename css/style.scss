@@ -224,6 +224,10 @@ a, a:visited {
   margin: 1em 0 3em 0;
 }
 
+.lunch, .coffee-break {
+  color: $primary-color;
+  background: none;
+}
 
 #schedule {
 

@@ -29,7 +29,6 @@ cover: cover_2019.html
 ### Confirmed speakers
 
 - Alexandra Arènes, [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
-- Jazmin Arguello Velazquez, [natural capital accounting](http://www.ixxi.fr/agenda/evenements/phd-defense-implementing-ecosystem-natural-capital-accounting-methodology-to-the-rhone-watershed-the-proof-of-concept)
 - Nicolas Barradeau, [creative visualization](http://www.barradeau.com/)
 - [Ludivine Bocquier](https://www.ludivinebocquier.fr/) & [Salomé Tréguier](http://salometreguier.fr/), [participatory mapping](https://theatlasofdata.earth)
 - Joanna Boehnert, [ecology, design and politics](https://ecolabsblog.com/)
@@ -45,8 +44,41 @@ Talks will be given in French and/or in English.
 
 <br />
 <br />
-
 ### The event will happen on November 14th and 15th, 2019 from 10am to 6pm.
+
+## Schedule
+
+<div id="schedule" markdown="1">
+
+### Thursday, November 14th
+
+| 09:30 | <span class="coffee-break">Welcome Coffee</span> |
+| 10:00 | Foreword |
+| 10:30 | Romain Vuillemot | Beyond the Temperature Chart: Designing Climate Change Visualizations for Impact
+| 11:15 | Joanna Boehnert | [ecology, design and politics](https://ecolabsblog.com/)
+| 12:00 | <span class="lunch">Lunch</span> |
+| 13:30 | Lynn Cherny | [analytic designer](http://ghostweather.com/)
+| 14:15 | Nicolas Barradeau | it's dangerous to go alone! take this. |
+| 15:00 | Philippe Rivière | The fabric of the city
+| 15:45 | <span class="coffee-break">Coffee Break</span>
+| 16:30 | Julien Dupont | Kartokobri
+| 17:15 | Fabrice Sabatier | Visualiser le lobby climatique 
+| 18:00 | <span class="coffee-break">End Day 1</span>
+
+### Friday, November 15th
+
+| 09:30 | <span class="coffee-break">Welcome Coffee</span> |
+| 10:00 | Ludivine Bocquier & Salomé Tréguier | Workshop Atlas of Data
+| 12:00 | <span class="lunch">Lunch</span>
+| 13:30 | Jazmin Arguello Velazquez | [natural capital accounting](http://www.ixxi.fr/agenda/evenements/phd-defense-implementing-ecosystem-natural-capital-accounting-methodology-to-the-rhone-watershed-the-proof-of-concept)
+| 14:15 | Alexandra Arènes | [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
+| 15:00 | Gauthier Roussilhe | Grounding Design
+| 15:45 | <span class="coffee-break">Coffee Break</span>
+| 16:30 | Paul Guzzardo | Visual Space of Architecture
+| 17:15 | Closing Remarks and Discussions
+| 18:00 | <span class="coffee-break">End Day 1</span>
+
+</div>
 
 <br />
 The full schedule will be published soon.  
