@@ -22,7 +22,9 @@ layout: default
       <h4>About {{ page.speaker}}</h4>
       <p>{{ page.bio}}</p>
 
+      {% if page.weblink %}
       <p><a href="{{page.weblink}}">{{page.weblink}}</a></p>
+      {% endif %}
 
       {%- if page.twitter -%}
         <a href="https://twitter.com/{{ page.twitter | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ page.twitter | escape }}</span></a>
