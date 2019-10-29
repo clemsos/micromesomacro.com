@@ -43,8 +43,9 @@ cover: cover_2019.html
 Talks will be given in French and/or in English.
 
 <br />
-<br />
 ### The event will happen on November 14th and 15th, 2019 from 10am to 6pm.
+<br />
+{% include talks.html year="2019" %}
 
 ## Schedule
 
