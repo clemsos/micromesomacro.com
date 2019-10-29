@@ -1,7 +1,8 @@
 <header id="cover">
   <a href="/" class="back-to-home">HOME</a>
   <div id="cover-image">
-    <img src="/uploads/2018/{{page.img}}" alt="">
+    {% capture year %}{{page.time | date: "%Y"}}{% endcapture %}
+    <img src="/uploads/{{year}}/{{page.img}}" alt="">
   </div>
   <a class="scroll-indicator" href="#intro">
     <div class="scroll-indicator-wrapper">

@@ -1,7 +1,8 @@
 <div class="talk-thumb">
+  {% capture year %}{{post.time | date: "%Y"}}{% endcapture %}
   <a class="talk-link" href="{{ post.url | relative_url }}">
     <div class="talk-thumb-img">
-      <img src="/uploads/2018/{{ post.img }}" alt="{{ post.title }} Thumbnail">
+      <img src="/uploads/{{ year }}/{{ post.img }}" alt="{{ post.title }} Thumbnail">
     </div>
     <div class="overlay"></div>
     <h3 class="talk-thumb-title">

@@ -2,9 +2,12 @@
   <ul>
     {% assign sorted = (site.talks | sort: 'time')  %}
     {% for post in sorted %}
+    {% capture year %}{{post.time | date: "%Y"}}{% endcapture %}
+    {% if year == include.year %}
     <li>
       {% include talk-thumbnail.html post=post%}
     </li>
+    {% endif %}
     {% endfor %}
   </ul>
 </section>
