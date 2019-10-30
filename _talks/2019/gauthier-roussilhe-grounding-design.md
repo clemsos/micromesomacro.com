@@ -12,6 +12,6 @@ twitter: '@AsWalterRobin'
 type: talk
 img: australia.png
 weblink: http://gauthierroussilhe.com/en
-time: 2019-11-15 15:00
+time: 2019-11-15 16:30
 ---
  Design has an history of evolving "off-ground", outside of the material conditions of its own production. As a result, mainstream design practices didn't include the notion a territory (geography, ecology, history) in their framework. How do you design from the territory or "milieu", how does the territory can influence design practices? We will take the case of digital design, known for sustaining the myths of dematerialization and "global village", to assess how territorial realities are represented back into digital practices nowadays.
