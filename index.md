@@ -55,15 +55,15 @@ Talks will be given in French and/or in English.
 
 | 09:30 | <span class="coffee-break">Welcome Coffee</span> |
 | 10:00 | Foreword |
-| 10:30 | Romain Vuillemot | Beyond the Temperature Chart: Designing Climate Change Visualizations for Impact
-| 11:15 | Joanna Boehnert | [ecology, design and politics](https://ecolabsblog.com/)
+| 10:30 | Joanna Boehnert | [ecology, design and politics](https://ecolabsblog.com/)
+| 11:15 | Fabrice Sabatier | Visualiser le lobby climatique 
 | 12:00 | <span class="lunch">Lunch</span> |
 | 13:30 | Lynn Cherny | [analytic designer](http://ghostweather.com/)
 | 14:15 | Nicolas Barradeau | it's dangerous to go alone! take this. |
 | 15:00 | Philippe Rivière | The fabric of the city
 | 15:45 | <span class="coffee-break">Coffee Break</span>
-| 16:30 | Julien Dupont | Kartokobri
-| 17:15 | Fabrice Sabatier | Visualiser le lobby climatique 
+| 16:30 | Paul Guzzardo | Visual Space of Architecture
+| 17:15 | Julien Dupont | Kartokobri
 | 18:00 | <span class="coffee-break">End Day 1</span>
 
 ### Friday, November 15th
@@ -72,10 +72,10 @@ Talks will be given in French and/or in English.
 | 10:00 | Ludivine Bocquier & Salomé Tréguier | Workshop Atlas of Data
 | 12:00 | <span class="lunch">Lunch</span>
 | 13:30 | Jazmin Arguello Velazquez | [natural capital accounting](http://www.ixxi.fr/agenda/evenements/phd-defense-implementing-ecosystem-natural-capital-accounting-methodology-to-the-rhone-watershed-the-proof-of-concept)
-| 14:15 | Alexandra Arènes | [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
-| 15:00 | Gauthier Roussilhe | Grounding Design
+| 14:15 | Romain Vuillemot | Beyond the Temperature Chart: Designing Climate Change Visualizations for Impact
+| 15:00 | Alexandra Arènes | [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
 | 15:45 | <span class="coffee-break">Coffee Break</span>
-| 16:30 | Paul Guzzardo | Visual Space of Architecture
+| 16:30 | Gauthier Roussilhe | Grounding Design
 | 17:15 | Closing Remarks and Discussions
 | 18:00 | <span class="coffee-break">End Day 1</span>
 
