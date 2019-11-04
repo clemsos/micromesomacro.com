@@ -62,8 +62,8 @@ Talks will be given in French and/or in English.
 | 14:15 | Nicolas Barradeau | it's dangerous to go alone! take this. |
 | 15:00 | Philippe Rivière | The fabric of the city
 | 15:45 | <span class="coffee-break">Coffee Break</span>
-| 16:30 | Paul Guzzardo | Visual Space of Architecture
-| 17:15 | Julien Dupont | Kartokobri
+| 16:30 | Romain Vuillemot | Beyond the Temperature Chart: Designing Climate Change Visualizations for Impact
+| 17:15 | Paul Guzzardo | Visual Space of Architecture
 | 18:00 | <span class="coffee-break">End Day 1</span>
 
 ### Friday, November 15th
@@ -72,8 +72,8 @@ Talks will be given in French and/or in English.
 | 10:00 | Ludivine Bocquier & Salomé Tréguier | Workshop Atlas of Data
 | 12:00 | <span class="lunch">Lunch</span>
 | 13:30 | Jazmin Arguello Velazquez | [natural capital accounting](http://www.ixxi.fr/agenda/evenements/phd-defense-implementing-ecosystem-natural-capital-accounting-methodology-to-the-rhone-watershed-the-proof-of-concept)
-| 14:15 | Romain Vuillemot | Beyond the Temperature Chart: Designing Climate Change Visualizations for Impact
-| 15:00 | Alexandra Arènes | [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
+| 14:15 | Alexandra Arènes | [SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)
+| 15:00 | Julien Dupont | Kartokobri
 | 15:45 | <span class="coffee-break">Coffee Break</span>
 | 16:30 | Gauthier Roussilhe | Grounding Design
 | 17:15 | Closing Remarks and Discussions

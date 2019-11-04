@@ -7,8 +7,8 @@ layout: post
 speaker: Alexandra Arènes
 title: "Observations, notations, conceptual models for a gaia-graphy of the critical zones"
 type: talk
-img: gaigraphy.png
+img: gaigraphy.jpg
 weblink: http://s-o-c.fr
-time: 2019-11-15 15:00
+time: 2019-11-15 14:15
 ---
  How is a model crafted? What are the links with what informs it, the field observations? The Critical Zone visualization project requires several explorative attempts to grasp this elusive object, the skin of the Earth, and to suggest a provisional model to read the traces of life. Following geoscientists in the field, inventing notation systems for instruments, retelling stories of soil making, collaborating on the design of chemical cycles, are all methodologies to generate potential maps of the Critical Zone.
