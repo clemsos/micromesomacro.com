@@ -77,7 +77,7 @@ Talks will be given in French and/or in English.
 | 15:45 | <span class="coffee-break">Coffee Break</span>
 | 16:30 | Gauthier Roussilhe | Grounding Design
 | 17:15 | Closing Remarks and Discussions
-| 18:00 | <span class="coffee-break">End Day 1</span>
+| 18:00 | <span class="coffee-break">End Day 2</span>
 
 </div>
 
