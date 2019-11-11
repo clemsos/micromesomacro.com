@@ -7,7 +7,7 @@ type: talk
 twitter: ecocene
 img: ecolabs.png
 weblink: https://ecolabsblog.com
-time: 2019-11-15 10:30
+time: 2019-11-14 10:00
 ---
 
 
