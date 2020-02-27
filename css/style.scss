@@ -339,3 +339,11 @@ footer p a {
     from { opacity: 0; }
     to   { opacity: 1; }
 }
+
+blockquote {
+  font-style: normal;
+  color: #888;
+  // font-size: 1.3em;
+  line-height: 1.8em;
+  letter-spacing: 0.02em;
+}
