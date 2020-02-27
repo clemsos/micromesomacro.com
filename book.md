@@ -6,7 +6,7 @@ author: Clément Renaud
 
 ## {{page.title}}
 
-![](/uploads/book/book-rendered.png)
+![](/uploads/book/book-rendering.jpg)
 
 ### Micro Meso Macro is a atalogue featuring all the graphics, artworks and reflections introduced during the [Micro Meso Macro](http://micromesomacro.com) conference session in Lyon.
 
@@ -61,13 +61,18 @@ The book will be launched during a public exhibition in Lyon (France) featuring 
 - Nov 2018: 1st edition
 - Nov 2019: 2nd edition
 - Feb 2020: start looking for a publisher
-- Mar 2020: call is released
-- Apr-May 2020: book design
-- July 2020: Deadline submission
-- Summer 2020: put the book together
-- Fall 2020: review the details
-- Dec 2020: book launch
+- Mar 1st 2020: call is sent to authors
+- Apr 2020: book design
+- May 1st 2020: authors deadline
+- Summer 2020: editing
+- Fall 2020: review
+- End 2020/Early 2021: book launch at MMM3
 
 ### Contact
 
-For questions and inquiries: <clement@clementrenaud.com>
+For questions and inquiries: <clement@micromesomacro.com>
+
+<br>
+<small>
+NB: The cover above is temporary.
+</small>
