@@ -29,11 +29,13 @@ Clément Renaud is a creative scientist working on the epistemology of data and 
 
 ### The authors
 
-The contributors are from the past editions of the events (2018 & 2019), as well as future participants for 2020. They are scientists, designers, artists and practicians of maps and data - including some well-known and less well-known name from the world of cartography and visualisation.
+{% assign sorted = (site.talks | sort: 'speaker')  %}
 
-Tentative list : Alexandra Arènes ([SOC – Société d'Objets Cartographiques](http://s-o-c.fr/)), Nicolas Barradeau ([creative visualization](http://www.barradeau.com/)), Joanna Boehnert ([ecology, design and politics](https://ecolabsblog.com/)), Lynn Cherny ([analytic designer](http://ghostweather.com/)), Julien Dupont ([cartographer of imaginaries](https://www.instagram.com/kartokobri/)), Gauthier Roussilhe ([anthropocenic designer](http://gauthierroussilhe.com/en)), Romain Vuillemot ([dataviz scientist](https://romain.vuillemot.net/)), Fabrice Sabatier ([networks explorer](http://www.corp-lab.com/researchsabatier/)), Paul Guzzardo ([recursive urbanist](https://en.unesco.org/global-mil-week-2019-feature-conference/paul-guzzardo)), Philippe Rivière ([geo magician](https://visionscarto.net/)), etc.
+*{% for post in sorted %}{% if forloop.index == 17 %}{% elsif forloop.index == 18%}{% else %}{{ post.speaker }}, {% endif %}{% endfor %}etc.*
 
-Introduction and Conclusion will be written by the editor, Clément Renaud.
+The tentative list above contains the name of contributors from the past editions of the events (2018 & 2019). They are scientists, designers, artists, architects and practitioners of cartography, visualisation, and visual writing technics. Not all will write in the book, and additional names from the 2020 edition will be added.
+
+An introduction will be written by the editor. A recognised name from the field (currently undisclosed) will add a foreword.
 
 ### About the book
 
