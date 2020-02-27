@@ -7,7 +7,7 @@ title: "Call for Paper - Micro Meso Macro, the book"
 
 ![](/uploads/book/book-rendering.jpg)
 
-### After two fruitful editions in Lyon, time has come for our discussions to get out of the conference room and circulate across the wider world. *Micro Meso Macro* will now become a catalogue made of original works shown during the conferences in Lyon.
+### After two fruitful editions in Lyon, time has come for our discussions to get out of the conference room and circulate across the wider world. *Micro Meso Macro* will now become a catalogue of the original works shown in Lyon.
 
 ### About the book
 
@@ -38,6 +38,10 @@ We will translate donc n’hésitez pas à écrire en français si vous voulez.
 ### The deadline you need
 
 #### Please send your contributions at <clement@micromesomacro.com> before May 1st, 2020.
+
+Many Thanks !
+
+Clément Renaud
 
 <br>
 <small>
