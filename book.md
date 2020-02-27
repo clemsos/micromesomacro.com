@@ -8,7 +8,7 @@ author: Clément Renaud
 
 ![](/uploads/book/book-rendered.png)
 
-### Micro Meso Macro is a book/catalogue featuring all the graphics/artworks and reflections introduced during the [Micro Meso Macro](http://micromesomacro.com) event in Lyon.
+### Micro Meso Macro is a atalogue featuring all the graphics, artworks and reflections introduced during the [Micro Meso Macro](http://micromesomacro.com) conference session in Lyon.
 
 <br>
 > We believe that our goal in discussing visualisation should not be to seek an unified approach to writing, but to support a diverse set of possibilities, tools and authoring styles. The visual grammar of data still in the making. Important explorations still to be conducted in the domain of representation to invent new mental models, develop new tools, create new ways of observing.
