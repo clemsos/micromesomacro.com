@@ -24,7 +24,7 @@ function updateWind(name) {
     getJSON('./data/wind/' + name + '.json', function (windData) {
         const windImage = new Image();
         windData.image = windImage;
-        windImage.src = '/.data/wind/' + name + '.png';
+        windImage.src = './data/wind/' + name + '.png';
         windImage.onload = function () {
             wind.setWind(windData);
         };
