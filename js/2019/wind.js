@@ -21,10 +21,10 @@ frame();
 updateWind('2019091500');
 
 function updateWind(name) {
-    getJSON('/data/wind/' + name + '.json', function (windData) {
+    getJSON('./data/wind/' + name + '.json', function (windData) {
         const windImage = new Image();
         windData.image = windImage;
-        windImage.src = 'data/wind/' + name + '.png';
+        windImage.src = '/.data/wind/' + name + '.png';
         windImage.onload = function () {
             wind.setWind(windData);
         };
