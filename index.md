@@ -83,7 +83,7 @@ Talks will be given in French and/or in English.
 
 <br />
 The full schedule will be published soon.  
-For reference, you can check the [website of the previous edition](/2018).
+For reference, you can check the [website of the previous edition](./2018).
 
 <br />
 <br />
