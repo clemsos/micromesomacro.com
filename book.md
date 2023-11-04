@@ -29,7 +29,7 @@ Clément Renaud is a creative scientist working on the epistemology of data and 
 
 ### The authors
 
-{% assign sorted = (site.talks | sort: 'speaker')  %}
+{% assign sorted = site.talks | sort: 'speaker'  %}
 
 *{% for post in sorted %}{% if forloop.index == 17 %}{% elsif forloop.index == 18%}{% else %}{{ post.speaker }}, {% endif %}{% endfor %}etc.*
 

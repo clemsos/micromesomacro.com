@@ -27,7 +27,7 @@ layout: default
       {% endif %}
 
       {%- if page.twitter -%}
-        <a href="https://twitter.com/{{ page.twitter | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ page.twitter | escape }}</span></a>
+        <a href="https://twitter.com/{{ page.twitter | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ './assets/minima-social-icons.svg#twitter' | relative_url }}"></use></svg> <span class="username">{{ page.twitter | escape }}</span></a>
       {%- endif -%}
     </div>
 
