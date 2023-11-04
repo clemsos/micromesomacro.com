@@ -27,3 +27,6 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# Added at 2023-11-04 12:26:33 +0100 by clement:
+gem "webrick", "~> 1.8"
